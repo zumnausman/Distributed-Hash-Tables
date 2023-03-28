@@ -1,0 +1,3 @@
+﻿  singlylinkedlist.cpp
+D:\FAST\Semester 3\DataStructures\Project\singlylinkedlist\singlylinkedlist\singlylinkedlist.cpp(134): warning C4715: 'List::isempty': not all control paths return a value
+  singlylinkedlist.vcxproj -> D:\FAST\Semester 3\DataStructures\Project\singlylinkedlist\Debug\singlylinkedlist.exe

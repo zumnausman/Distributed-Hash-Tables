@@ -1,0 +1,4 @@
+﻿  DSProjectVS.cpp
+D:\FAST\Semester 3\DataStructures\Project\DSProjectVS\DSProjectVS\DSProjectVS.cpp(99,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FAST\Semester 3\DataStructures\Project\DSProjectVS\DSProjectVS\DSProjectVS.cpp(132,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSProjectVS.vcxproj -> D:\FAST\Semester 3\DataStructures\Project\DSProjectVS\Debug\DSProjectVS.exe
